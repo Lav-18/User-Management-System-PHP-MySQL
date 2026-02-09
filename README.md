@@ -7,11 +7,12 @@ Technologies Used:
 - CSS
 
 Features:
-✔ Add Users  
-✔ View Records  
-✔ Update Details  
-✔ Delete Users  
-✔ Form Validation  
+
+ Add Users  
+ View Records  
+ Update Details  
+ Delete Users  
+ Form Validation  
 
 Purpose:
 Built to strengthen backend development skills and understand database integration.
